@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('build-test') {
             steps {
-                echo 'hello,Github!'
+                echo 'hello,Github2!'
             }
         }
     }
